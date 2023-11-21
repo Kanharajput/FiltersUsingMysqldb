@@ -65,7 +65,6 @@ def where_condition(fields):
 
 
 
-
 @app.route("/search", methods=['POST'])
 def search_product():
     
